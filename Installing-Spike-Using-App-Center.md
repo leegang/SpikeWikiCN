@@ -1,0 +1,1 @@
+**NOTE: We are not longer using App Center. We've migrated to the Ignition app store. Relevant guide [here](https://github.com/SpikeApp/Spike/wiki/Installing-Spike-Using-Ignition-Store).**
